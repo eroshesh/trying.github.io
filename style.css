@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #FFFBE9;
+}
+
+.buttons{
+    padding: 10px;
+    margin: 5px 5px;
+}
+.teacher{
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.student{
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    background-color:#AD8B73;
+    width: 100px;
+    height: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: #FFFBE9;
+    transition: ease-in-out 0.5s;
+}
